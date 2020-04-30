@@ -308,12 +308,8 @@ p{
   color: grey;
 }
 
-.about-section h1,title{
+.about-section h1, h2, title{
    font-family: Roboto, sans-serif;
-}
-
-.about-section h2{
-   	font-family: Roboto, sans-serif;
 	color: black;
 }
 
