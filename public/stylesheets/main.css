@@ -291,7 +291,7 @@ p{
   padding: 50px;
   text-align: center;
   background-color: #474e5d;
-  color: black;
+  color: white;
 }
 
 .aboutusbox {
@@ -308,11 +308,14 @@ p{
   color: grey;
 }
 
-.about-section h1,h2,title{
+.about-section h1,title{
    font-family: Roboto, sans-serif;
 }
 
-
+.about-section h2{
+   	font-family: Roboto, sans-serif;
+	color: black;
+}
 
 /*Footer*/
 .footer {
