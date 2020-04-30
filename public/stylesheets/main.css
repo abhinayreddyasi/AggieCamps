@@ -291,7 +291,7 @@ p{
   padding: 50px;
   text-align: center;
   background-color: #474e5d;
-  color: white;
+  color: black;
 }
 
 .aboutusbox {
@@ -305,7 +305,7 @@ p{
 }
 
 .title {
-  color: black;
+  color: grey;
 }
 
 .about-section h1,h2,title{
